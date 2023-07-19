@@ -1,5 +1,4 @@
-hello world
-git tutorial
-MCA MASTER BACHLOER APLICATION
-hello good morning
-hey hello
+hello 
+good morning
+good evening
+good night
